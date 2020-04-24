@@ -1,2 +1,0 @@
-# useModal
-Created with CodeSandbox
